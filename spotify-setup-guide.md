@@ -1,6 +1,6 @@
 # Setup Guide
 
-Guide by [JoshLmao](https://github.com/JoshLmao)
+Guide by [JoshLmao](https://github.com/JoshLmao) - [Repo](https://github.com/JoshLmao/now-playing-profile)
 
 ### Part 1: Vercel & Deploy
 
