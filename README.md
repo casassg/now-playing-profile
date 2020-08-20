@@ -1,3 +1,5 @@
+Original repo: https://github.com/JoshLmao/now-playing-profile
+
 **Now Playing** on Spotify
 
 <a href="https://now-playing-profile-lyart.vercel.app/now-playing?open">
